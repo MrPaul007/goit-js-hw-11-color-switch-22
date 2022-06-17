@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+}
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,YAAa,CACb,kBAAmB,CACnB,sBACJ,CAEA,OACI,WACJ","file":"styles.18409e3f.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n    height: 100vh;\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n}\r\n\r\nbutton {\r\n    margin: 10px;\r\n}"]}
