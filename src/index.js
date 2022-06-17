@@ -1,3 +1,4 @@
+import "./styles.css";
 import colors from "./colors.js";
 
 const startBtn = document.querySelector('[data-action="start"]');
