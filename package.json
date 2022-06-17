@@ -1,0 +1,30 @@
+{
+  "name": "goit-js-hw-11-color-switch",
+  "version": "1.0.0",
+  "description": "## Мастерская: деплой билда от Parcel на GitHub Pages",
+  "sorce": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11-color-switch/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPaul007/goit-js-hw-11-color-switch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPaul007/goit-js-hw-11-color-switch/issues"
+  },
+  "homepage": "https://mrpaul007.github.io/goit-js-hw-11-color-switch",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "handlebars": "^4.7.7"
+  },
+  "devDependencies": {
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  },
+  "main": "index.js"
+}
